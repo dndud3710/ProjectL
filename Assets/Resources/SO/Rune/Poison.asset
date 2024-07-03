@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e11e30158f271f242aa7e62c215f1687, type: 3}
+  m_Name: Poison
+  m_EditorClassIdentifier: 
+  Name: "\uB3C5"
+  Description: "\uB3C5 \uB370\uBBF8\uC9C0\uB97C \uB0A8\uAE41\uB2C8\uB2E4."
+  EffectIcon: {fileID: 1678800700, guid: b12133c2ad9ae7244beb5822cd7446a9, type: 3}
+  DOTAmount: 10
+  TickSpeed: 1
+  MovementPenalty: 0
+  Lifetime: 5
+  EffectType: 4
+  EffectColor: {r: 0.034843344, g: 0.8207547, b: 0.13903183, a: 1}
+  ExtraDamage: -2
+  ExtraCooldown: 0

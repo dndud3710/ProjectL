@@ -1,0 +1,62 @@
+[
+  {
+    "iteminfo": {
+      "id": 0,
+      "itemname": "사과",
+      "iconName": "Potion_Apple",
+      "Description": "HP + 20 MP + 10",
+      "sellPrice": 5,
+      "purchase": 20
+    },
+    "HpHeal": 20,
+    "MpHeal": 10
+  },
+  {
+    "iteminfo": {
+      "id": 1,
+      "itemname": "Hp포션(소)",
+      "iconName": "Small_HpPotion",
+      "Description": "HP + 50 MP + 0",
+      "sellPrice": 10,
+      "purchase": 30
+    },
+    "HpHeal": 50,
+    "MpHeal": 0
+  },
+  {
+    "iteminfo": {
+      "id": 2,
+      "itemname": "Mp포션(소)",
+      "iconName": "Small_MpPotion",
+      "Description": "HP + 0 MP + 50",
+      "sellPrice": 10,
+      "purchase": 30
+    },
+    "HpHeal": 0,
+    "MpHeal": 50
+  },
+  {
+    "iteminfo": {
+      "id": 3,
+      "itemname": "Hp포션(대)",
+      "iconName": "Large_HpPotion",
+      "Description": "HP + 100 MP + 0",
+      "sellPrice": 20,
+      "purchase": 50
+    },
+    "HpHeal": 100,
+    "MpHeal": 0
+  },
+  {
+    "iteminfo": {
+      "id": 4,
+      "itemname": "Mp포션(대)",
+      "iconName": "Large_MpPotion",
+      "Description": "HP + 0 MP + 100",
+      "sellPrice": 20,
+      "purchase": 50
+    },
+    "HpHeal": 0,
+    "MpHeal": 100
+  }
+]

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e11e30158f271f242aa7e62c215f1687, type: 3}
+  m_Name: Ligthning
+  m_EditorClassIdentifier: 
+  Name: "\uBC88\uAC1C"
+  Description: "\uCFE8\uD0C0\uC784\uC774 \uC9E7\uC544\uC9C0\uACE0 \uACF5\uACA9 \uC18D\uB3C4\uAC00
+    \uC99D\uAC00\uD569\uB2C8\uB2E4. \uB370\uBBF8\uC9C0\uAC00 \uAC10\uC18C\uD569\uB2C8\uB2E4."
+  EffectIcon: {fileID: -546805788, guid: b12133c2ad9ae7244beb5822cd7446a9, type: 3}
+  DOTAmount: 0
+  TickSpeed: 0
+  MovementPenalty: 0
+  Lifetime: 0
+  EffectType: 2
+  EffectColor: {r: 0.04050642, g: 0, b: 0.7075472, a: 1}
+  ExtraDamage: -5
+  ExtraCooldown: -2

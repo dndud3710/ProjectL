@@ -1,0 +1,12 @@
+[
+  {
+    "iteminfo": {
+      "id": 0,
+      "itemname": "나무",
+      "iconName": "etc_Wood",
+      "Description": "나무이다",
+      "sellPrice": 15,
+      "purchase": 60
+    }
+  }
+]

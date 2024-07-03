@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ccd329938d7b4e43946413811dc2e28, type: 3}
+  m_Name: Mage3_E
+  m_EditorClassIdentifier: 
+  skillName: 
+  description: 
+  icon: {fileID: 21300000, guid: fccc7156f5a20d847b6f18880c73d76d, type: 3}
+  baseAmount: 4
+  baseCooldown: 12
+  manaCost: 60
+  animationSpeed: 0
+  chargingDuration: 3
+  lifeTime: 10
+  bindingKey: 3
+  effectControllers:
+  - {fileID: 4597807683650844464, guid: 259eacd7f2c0f0c4fae567fe5b55d935, type: 3}

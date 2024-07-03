@@ -1,0 +1,116 @@
+[
+  {
+    "iteminfo": {
+      "id": 0,
+      "itemname": "나무 배틀엑스",
+      "iconName": "WoodBattleAxe",
+      "Description": "나무로 만들어진 배틀엑스",
+      "sellPrice": 100,
+      "purchase": 300
+    },
+    "status": {
+      "STR": 8.0,
+      "DEX": 4.0,
+      "INT": 1.0,
+      "DEF": 5.0
+    },
+    "equiptype": 0,
+    "Player_Class": 0,
+    "GamePrefabName": ""
+  },
+  {
+    "iteminfo": {
+      "id": 1,
+      "itemname": "철제 배틀엑스",
+      "iconName": "IronBattleAxe",
+      "Description": "철제로 만들어진 배틀엑스",
+      "sellPrice": 200,
+      "purchase": 500
+    },
+    "status": {
+      "STR": 12.0,
+      "DEX": 6.0,
+      "INT": 1.0,
+      "DEF": 7.0
+    },
+    "equiptype": 0,
+    "Player_Class": 0,
+    "GamePrefabName": ""
+  },
+  {
+    "iteminfo": {
+      "id": 2,
+      "itemname": "기계공학 총",
+      "iconName": "EngineerGun",
+      "Description": "기계로 만들어진 총",
+      "sellPrice": 100,
+      "purchase": 300
+    },
+    "status": {
+      "STR": 4.0,
+      "DEX": 8.0,
+      "INT": 1.0,
+      "DEF": 2.0
+    },
+    "equiptype": 0,
+    "Player_Class": 1,
+    "GamePrefabName": ""
+  },
+  {
+    "iteminfo": {
+      "id": 3,
+      "itemname": "마법공학 총",
+      "iconName": "TechnicalGun",
+      "Description": "마법으로 만들어진 총",
+      "sellPrice": 200,
+      "purchase": 500
+    },
+    "status": {
+      "STR": 6.0,
+      "DEX": 13.0,
+      "INT": 2.0,
+      "DEF": 4.0
+    },
+    "equiptype": 0,
+    "Player_Class": 1,
+    "GamePrefabName": ""
+  },
+  {
+    "iteminfo": {
+      "id": 4,
+      "itemname": "나무 스태프",
+      "iconName": "WoodStaff",
+      "Description": "나무로 만들어진 스태프",
+      "sellPrice": 100,
+      "purchase": 300
+    },
+    "status": {
+      "STR": 1.0,
+      "DEX": 3.0,
+      "INT": 9.0,
+      "DEF": 1.0
+    },
+    "equiptype": 0,
+    "Player_Class": 2,
+    "GamePrefabName": ""
+  },
+  {
+    "iteminfo": {
+      "id": 5,
+      "itemname": "매직 스태프",
+      "iconName": "MagicStaff",
+      "Description": "마법재료로 만들어진 스태프",
+      "sellPrice": 200,
+      "purchase": 500
+    },
+    "status": {
+      "STR": 2.0,
+      "DEX": 5.0,
+      "INT": 16.0,
+      "DEF": 2.0
+    },
+    "equiptype": 0,
+    "Player_Class": 2,
+    "GamePrefabName": ""
+  }
+]

@@ -70,3 +70,17 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+/[Aa]ssets/Imports/
+/[Aa]ssets/Polygonmaker
+/[Aa]ssets/BossParticles
+/[Aa]ssets/Blink
+/[Aa]ssets/Photon
+/[Aa]ssets/UnityStandardAssets-main
+/[Aa]ssets/Library
+/[Aa]ssets/Logs
+/[Aa]ssets/obj
+/[Aa]ssets/Packages
+/[Aa]ssets/ProjectSettings
+/[Aa]ssets/ServerData
+/[Aa]ssets/UserSettings
+BuildFolder
